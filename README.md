@@ -1,2 +1,1 @@
-# Sequelize-Of-JWT-Token
-# JWT-TOKEN
+# SEQUALIZE-JWT-TOKEN
